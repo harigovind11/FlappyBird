@@ -43,6 +43,7 @@ public class Score : MonoBehaviour
     public void UpdateScore()
     {
         _score++;
+       
         _currentScoreText.text = _score.ToString();
         UpdateHighScore();
     }

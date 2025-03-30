@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class FlyAbility : MonoBehaviour
 {
-    [SerializeField] private float _velocity = 2f;
+    [SerializeField] private float _velocity = 1.5f;
     [SerializeField] private float _rotationSpeed = 15f;
     
     private Rigidbody2D _rb;

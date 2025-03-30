@@ -15,10 +15,12 @@ public class GameManager : MonoBehaviour
     [SerializeField] private AudioClip death;
     [SerializeField] private AudioClip levelUp;
 
-
+    [SerializeField] GameObject flappy; 
     
     private AudioSource _audioSource;
-   
+
+    private Animator animator;
+
     private void Awake()
     {
         if (instance == null)
@@ -28,11 +30,27 @@ public class GameManager : MonoBehaviour
 
        _audioSource = GetComponent<AudioSource>();
        _audioSource.Play();
+
+        animator = flappy.GetComponent<Animator>();
         Time.timeScale = 1f;
 
     }
 
- 
+    public void Update()
+    {
+        if (Score.instance._score == 10)
+        {
+            animator.SetTrigger("level2");
+            _audioSource.PlayOneShot(levelUp);
+            _audioSource.Play();
+        }
+        else if(Score.instance._score == 20)
+        {
+            animator.SetTrigger("level3");
+            _audioSource.PlayOneShot(levelUp);
+            _audioSource.Play();
+        }
+    }
 
     public void GameOver()
     {

@@ -417,7 +417,7 @@ TextureImporter:
         width: 168
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,6 +425,132 @@ TextureImporter:
       bones: []
       spriteID: 65994fbef823d4a4ca61c4a271aaaa72
       internalID: 256769642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46f62670bfa8f4faa23f838bbc4aba
+      internalID: 908945694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 171
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73899669a8fbc34092f5a9ca850babf
+      internalID: -1308150128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e381f57916f3fd498fb84d14f542705
+      internalID: 720188265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d058a9feb4b6504a8976dfbbb9aa114
+      internalID: -353217234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d77f03d8ecb54385775fbf36e18f3
+      internalID: 775228549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Flappy Bird - Version 12 Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c908e9b681ca44195e24cb6b1eac1f
+      internalID: 1045953057
       vertices: []
       indices: 
       edges: []
@@ -447,6 +573,11 @@ TextureImporter:
       Mobile - Flappy Bird - Version 12 Sprites_12: -326550654
       Mobile - Flappy Bird - Version 12 Sprites_13: 256769642
       Mobile - Flappy Bird - Version 12 Sprites_14: 908945694
+      Mobile - Flappy Bird - Version 12 Sprites_15: -1308150128
+      Mobile - Flappy Bird - Version 12 Sprites_16: 720188265
+      Mobile - Flappy Bird - Version 12 Sprites_17: -353217234
+      Mobile - Flappy Bird - Version 12 Sprites_18: 775228549
+      Mobile - Flappy Bird - Version 12 Sprites_19: 1045953057
       Mobile - Flappy Bird - Version 12 Sprites_2: -544697173
       Mobile - Flappy Bird - Version 12 Sprites_3: -548789302
       Mobile - Flappy Bird - Version 12 Sprites_4: -1563727131
